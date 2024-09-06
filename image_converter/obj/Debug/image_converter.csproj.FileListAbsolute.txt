@@ -1,0 +1,8 @@
+D:\image_converter\image_converter\bin\Debug\image_converter.exe
+D:\image_converter\image_converter\bin\Debug\image_converter.pdb
+D:\image_converter\image_converter\obj\Debug\image_converter.csprojResolveAssemblyReference.cache
+D:\image_converter\image_converter\obj\Debug\image_converter.Form1.resources
+D:\image_converter\image_converter\obj\Debug\image_converter.Properties.Resources.resources
+D:\image_converter\image_converter\obj\Debug\image_converter.csproj.GenerateResource.Cache
+D:\image_converter\image_converter\obj\Debug\image_converter.exe
+D:\image_converter\image_converter\obj\Debug\image_converter.pdb
